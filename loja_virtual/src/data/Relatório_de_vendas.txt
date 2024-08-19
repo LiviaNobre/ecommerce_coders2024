@@ -1,1 +1,3 @@
 chave	nome	preco	estoque	descricao	status
+
+	brusinha	2	25.5	51.0
