@@ -1,0 +1,1 @@
+chave	nome	preco	estoque	descricao	status
