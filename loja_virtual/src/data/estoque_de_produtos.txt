@@ -1,0 +1,3 @@
+chave	nome	preco	estoque	descricao	status
+293	Temperos Variados	30.0	2	Variados	1
+778	Pen drive	39.90	100	Acessorios	0
