@@ -1,3 +1,2 @@
-chave	nome	preco	estoque	descricao	status
-
-	brusinha	2	25.5	51.0
+nome	quantidade	 preco unit	  preco final
+bola	3	5.0	15.0

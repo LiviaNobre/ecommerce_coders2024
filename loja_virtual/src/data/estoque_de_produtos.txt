@@ -1,2 +1,5 @@
-293	Temperos Variados	30.0	2	Variados	1
 25	brusinha	25.5	0	brusinha	1
+6	boné	30.65	9	bonéu	0
+4	rasteira	55.5	7	chinela	1
+10	bola	5.0	3	bola	1
+11	corretivo	3.5	3	corretivo	1
